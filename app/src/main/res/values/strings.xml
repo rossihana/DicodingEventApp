@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DicodingEventApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming </string>
+    <string name="title_finished">Finished</string>
+    <string name="home_title">Dicoding Events</string>
+    <string name="recommendation_event_for_you">Recommendation Event For You!</string>"
+    <string name="upcoming_event">Upcoming Events</string>
+    <string name="finished_event">Finished Events</string>
+    <string name="img_event">Gambar Event</string>
+    <string name="detail_event">Detail Event</string>
+    <string name="owner_name">Owner Name</string>
+    <string name="sisa_kuota">Sisa Kuota:</string>
+    <string name="detail_kuota">Detail Kuota</string>
+    <string name="begin_time">Mulai:</string>
+    <string name="end_time">Selesai:</string>
+    <string name="detail_begin_time">2024–06–07 16:00:00</string>
+    <string name="detail_end_time">2024–06–07 17:00:00</string>
+    <string name="deskripsi">Deskripsi:</string>
+    <string name="detail_deskripsi">Detail Deskripsi</string>
+    <string name="register">Register</string>
+    <string name="search_event">Search Event..</string>
+    <string name="event_not_found">Event Not Found..</string>
+    <string name="rto">RTO</string>
+    <string name="no_connection">Internet No Connection..</string>
+    <string name="title_favorite">Favorite Events</string>
+    <string name="Favorite">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="setting">Settings</string>
+
+</resources>
